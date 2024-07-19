@@ -14,7 +14,7 @@ TodoList is a helpful application designed to organize life more neatly and syst
 
 ## Languages Used
 
-- **HTML**: Markup language for structuring the content.
+- **JSP**: Markup language for structuring the content.
 - **CSS**: Styling the website with custom designs and layouts.
 - **Java**: Adding interactivity and enhancing user experience and also connecting to database server by using Java libraries.
 - **SQL**: Managing activity data and user information.
